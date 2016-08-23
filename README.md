@@ -43,7 +43,7 @@ See [examples](https://github.com/GSLabDev/OTPManager/tree/master/example) for w
 The API documentation will get generated after mvn install under OTPManager/target/apidocs directory.
 
 For OTPManager library implementation details, see
-[IMPLEMENTATION.md](https://github.com/GSLabDev/libasynckafkaclient/blob/master/IMPLEMENTATION.md)
+[IMPLEMENTATION.md](https://github.com/GSLabDev/OTPManager/blob/master/IMPLEMENTATION.md)
 
 
 ## Examples
