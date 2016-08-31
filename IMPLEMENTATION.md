@@ -102,6 +102,6 @@ It returns qrcodeUrl using which caller can generate QRCODE image or you can use
 		
 The following code verifies the OTP code against the QRCode Image.
 
-		String boolean = otpHandler.getInstance()..verifyOTP(otpCode, userId)
+		String boolean = otpHandler.getInstance().verifyOTP(otpCode, userId)
 		
 Please refer to the [examples](https://github.com/GSLabDev/OTPManager/tree/master/example) sub-directory for more details.
